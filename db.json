@@ -4,7 +4,7 @@
 		{
 			"catring":[ {
 			"price": 75,
-			"sub-description": "per seat purchaased",
+			"subDescription": "per seat purchaased",
 			"description": "You will be served a meal during your flight.  In-flight catering inlcudes gourment sandwiches, salad, desert and your choice of drink."
 
 			}]
@@ -12,7 +12,7 @@
 		{
 			"airport-pickup": [{
 			"price": 100,
-			"sub-description": "airport pickup",
+			"subDescription": "airport pickup",
 			"description": "You will be provided transporation to the location of your choice within your destination city."
 			}]
 		},
